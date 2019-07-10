@@ -268,18 +268,11 @@ please preview your site before committing, and make sure to run
 <h2 id="setup">Setup</h2>
 
 <p>
-  To participate in a
-  {% if page.carpentry == "swc" %}
-  Software Carpentry
-  {% elsif page.carpentry == "dc" %}
-  Data Carpentry
-  {% elsif page.carpentry == "lc" %}
-  Library Carpentry
-  {% endif %}
-  workshop,
-  you will need access to the software described below.
+  This workshop will use Cyverse and Atmosphere to provide a remote working environment for attendees, so no software needs to              be installed prior to the workshop. To gain access to the workshop materials, you will need to create an account with Cyverse and register with the workshop on Cyverse, after registering for the workshop via Eventbrite. 
   In addition, you will need an up-to-date web browser.
 </p>
+
+{% comment %} Software installation not necessary for this workshop, as all programs will be accessed via Cyverse 
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
   that may be useful on the
@@ -796,6 +789,7 @@ please preview your site before committing, and make sure to run
     </div>
   </div>
 </div> {% comment %} End of 'OpenRefine' section. {% endcomment %}
+{% endcomment %}
 
 {% comment %}
 <div id="vm">
