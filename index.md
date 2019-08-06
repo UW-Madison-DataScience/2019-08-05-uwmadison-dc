@@ -15,7 +15,7 @@ instructor: ["Trisha Adamus", "Steve Goldstein", "Christina Koch", "Tobin Magle"
 helper: ["Cid Freitag", "Nancy Granda", "Kunling Huang", "Matt Stone"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["contact@datascience.wisc.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:   https://pad.carpentries.org/2019-08-05-uwmadison-dc          # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
-eventbrite:    64618327156       # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite:    65117093981       # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
 
